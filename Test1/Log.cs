@@ -12,5 +12,7 @@ namespace Test1
         {
 
         }
+
+        public string Name { get; set; }
     }
 }
